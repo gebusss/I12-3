@@ -1,0 +1,95 @@
+header {
+    background-color: rgb(215, 140, 218);
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+nav {
+    background-color: orange;
+    color: black;
+    text-align: center;
+    padding: 8px;
+    margin-top: 10px;
+}
+aside {
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    width: 27.3%;
+    padding: 10px;
+    margin-top: 10px;
+    float: left;
+    height: 1100px;
+}
+article {
+    background-color: red;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    margin-top: 10px;
+}
+figure {
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    margin: 10px 0;
+}
+main {
+    background-color: greenyellow;
+    color: black;
+    text-align: center;
+    width: 40%;
+    float: left;
+    margin: 10px;
+    padding: 20px;
+    height: 1080px;
+}
+footer {
+    background-color: purple;
+    color: black;
+    text-align: center;
+    clear: both;
+    padding: 10px 0;
+}
+figcaption {
+    background-color: antiquewhite;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+section {
+    background-color: green;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+}
+body {
+    background-color: white;
+    float: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#j {
+    height: 250px;
+}
+#d {
+    height: 500px;
+}
+.h {
+    width: 100vw;
+}
+.a {
+    height: 300px;
+    margin-bottom: 10px
+}
+.c {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 400px;
+}
+.b {
+    height: 600px;
+}
